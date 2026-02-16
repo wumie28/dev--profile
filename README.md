@@ -5,6 +5,6 @@ Goal: ("Become a Professional Developer")
 
 
 Skills:
-- Python
-- Git
-- FastAPI
+- ("Python")
+- ("Git")
+- ("FastAPI")
