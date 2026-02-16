@@ -9,7 +9,9 @@ Skills:
 - ("Git")
 - ("FastAPI")
 
-Contact: 08066979526
+
+# Contacts info:
+Contact: ("No 22 joel arubiewe mosan")
 Email : ("wumie28@gmail.com")
 
 
